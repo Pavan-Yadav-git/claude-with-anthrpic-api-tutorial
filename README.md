@@ -14,7 +14,7 @@ This repository contains my hands-on implementation of the **Claude with Anthrop
 
 The completion certificate is available here:
 
-📄 **[Claude with Anthropic API Certificate](./certificate.pdf)**
+📄 **[Claude with Anthropic API Certificate](./Pavan_Yadav_certificate-knudj5hwpiue-1783603067.pdf)**
 
 ## Tech Stack
 
